@@ -32,3 +32,9 @@ function corFav (cor) {
 }
 
 console.log(corFav("rosa"));
+
+
+let petName = "Jessie";
+let breed = "Labrador";
+
+console(petName, breed);

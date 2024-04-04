@@ -1,5 +1,8 @@
+var frutas = ['Banana', 'Maçã', 'Pera', 'Uva', 'Melância'];
 
-function valoresVerdadeiros(dado) {
-    return dado;
-
+for (var i = 0; i < frutas.length; i++) {
+  console.log(frutas[i]);
+  if(videoGames[i] === 'Pera') {
+    break;
+  }
 }
